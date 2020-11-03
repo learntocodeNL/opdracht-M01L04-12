@@ -1,0 +1,44 @@
+
+.flex-container{
+  display:flex ;
+  flex-flow: row wrap;
+  
+  
+
+}
+
+
+
+    .blogpost1{
+      border:solid 1px black;
+      flex: 0 1 auto;
+      margin: 10px;
+      
+
+    }
+    .blogpost2 {
+      border: solid 1px black;
+      align-self: flex-start;
+
+    }
+  .blogpost3{
+    border: solid 1px black;
+    flex: 2 1 auto;
+  }
+  .blogpost4{
+    border: solid 1px black;
+  }
+
+  .blogpost5{
+    border: solid 1px black;
+    align-self: flex-end;
+  }
+  
+  
+  
+  
+  
+
+    
+  
+  
